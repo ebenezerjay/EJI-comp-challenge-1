@@ -1,6 +1,6 @@
-<h1>bt-comp-challenge-1<h1>
+<h1>bt-comp-challenge-1</h1>
 
-<h1>Intro<h1>
+<h1>Intro</h1>
 
 <p>
 This site is a replication of a static site that was given to us, to model after. Our creative license included images, copy, icons, and the color palette. We were not allowed to change the layout. 
