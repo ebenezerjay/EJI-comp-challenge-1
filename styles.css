@@ -140,7 +140,7 @@ flex-wrap: wrap;
 }
 
 h4 {
-  color: #fff;
+  color: #ad2020;
   margin-left: 200px;
   width: 25%;
   margin-bottom: 0px;
@@ -166,4 +166,27 @@ h3 {
   padding-left: 5px;
   margin: auto;
   text-align: center;
+}
+
+@media screen and (max-width:1095px) {
+h4 {
+  display: inline-block;
+  float: left;
+  color: #fff;
+  margin-left: 0px;
+  width: 25%;
+  margin-bottom: 0px;
+}
+
+.h2-years {
+  color: #fff;
+  display: inline-block;
+  float: left;
+  /*display: flex;
+  justify-content: flex-start;*/
+  margin-right: 10px;
+  margin-top: 0px;
+  font-size: 40px;
+  width: 100%;
+  }
 }
